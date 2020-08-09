@@ -1,7 +1,10 @@
-# float-valve-V1  - click the picture below to view the demonstration and DIY video.
+# float-valve-V1  - for auto nutrient level control for passive hydroponics
+#
+# Designed by cheungbx (c) 2020.08.07 - free for personal use. Prohibitted use on comercial products.
+
+click the picture below to view the demonstration and DIY video.
 [![PicureLinkedToVideo](picture.JPG)](https://youtu.be/t1FxCKXK-P4)
 
-# Designed by cheungbx (c) 2020.08.07 - free for personal use. Prohibitted use on comercial products.
 
 # Float valve is a water level controller used in Passive Hydroponics systems.
 # Install a big nutriet tanks that can supply nutrients for a month for your plans.
