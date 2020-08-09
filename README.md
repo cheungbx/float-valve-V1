@@ -5,7 +5,7 @@
 
 click the picture below to view the demonstration and DIY video.
 [![PicureLinkedToVideo](picture.JPG)](https://youtu.be/t1FxCKXK-P4)
-[![PicureLinkedToVideo](schematic.png)](https://youtu.be/t1FxCKXK-P4)
+[![PicureLinkedToVideo](schematic.jpg)](https://youtu.be/t1FxCKXK-P4)
 
 # Float valve is a water level controller used in Passive Hydroponics systems.
 # Install a big nutrient tank that can supply nutrients for a month for your plants.
