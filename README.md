@@ -1,4 +1,4 @@
-# float-valve-V1  - click the picture to view the video with instructions.
+# float-valve-V1  - click the picture below to view the demonstration and DIY video.
 [![PicureLinkedToVideo](picture.JPG)](https://youtu.be/t1FxCKXK-P4)
 
 # Designed by cheungbx (c) 2020.08.07 - free for personal use. Prohibitted use on comercial products.
