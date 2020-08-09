@@ -1,5 +1,5 @@
 # float-valve-V1
-[![PicureLinkedToVideo](picture.jpg)](https://youtu.be/t1FxCKXK-P4)
+[![PicureLinkedToVideo](picture.JPG)](https://youtu.be/t1FxCKXK-P4)
 
 # Designed by cheungbx (c) 2020.08.07 - free for personal use. Prohibitted use on comercial products.
 
